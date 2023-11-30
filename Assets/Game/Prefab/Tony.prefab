@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 6561211566314693993}
   - component: {fileID: 8381862749849600579}
   m_Layer: 0
-  m_Name: head_28_cap_A
+  m_Name: Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84,7 +84,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 4875203540066462095, guid: c1a3c3a0fe5b44465a3bacdade4285df, type: 3}
+  - {fileID: 2100000, guid: 8fd192304df88db499eedb3456dc6d67, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -421,7 +421,7 @@ GameObject:
   - component: {fileID: 5082700258683679171}
   - component: {fileID: 3479935195976034701}
   m_Layer: 0
-  m_Name: Body_02_blackTshirt
+  m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -462,7 +462,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 4875203540066462095, guid: c1a3c3a0fe5b44465a3bacdade4285df, type: 3}
+  - {fileID: 2100000, guid: 8fd192304df88db499eedb3456dc6d67, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
